@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { ArrowDown, Download, Mail, MapPin, Phone } from "lucide-react";
 import { GeometricHelix } from "./ThreeJSAnimations";
-import { https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link } from "https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link";
+import { ImageWithFallback } from "ImageWithFallback";
 
 export function Hero() {
   const scrollToNextSection = () => {
@@ -101,7 +101,7 @@ export function Hero() {
               {/* Profile Image Container */}
               <div className="relative bg-card rounded-full p-1.5 shadow-2xl w-64 h-64">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face"
+                  src="https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link"
                   alt="Akansh Goel - Pharmacovigilance Professional"
                   className="w-full h-full object-cover rounded-full"
                 />
