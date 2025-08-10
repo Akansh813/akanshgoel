@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { ArrowDown, Download, Mail, MapPin, Phone } from "lucide-react";
 import { GeometricHelix } from "./ThreeJSAnimations";
-import { ImageWithFallback } from "https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link";
+import { https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link } from "https://drive.google.com/file/d/1SnH9Zf7Q0LzkUseARCm1HAW56QSk44q5/view?usp=drive_link";
 
 export function Hero() {
   const scrollToNextSection = () => {
