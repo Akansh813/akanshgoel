@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { ArrowDown, Download, Mail, MapPin, Phone } from "lucide-react";
 import { GeometricHelix } from "./ThreeJSAnimations";
-import { ImageWithFallback } from "ImageWithFallback";
+import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 export function Hero() {
   const scrollToNextSection = () => {
