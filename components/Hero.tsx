@@ -101,7 +101,7 @@ export function Hero() {
               {/* Profile Image Container */}
               <div className="relative bg-card rounded-full p-1.5 shadow-2xl w-64 h-64">
                 <ImageWithFallback
-                  src="https:https://drive.google.com/file/d/1sN9a4Qif48kVrbeQ0Fk1Wds50H1ObDHu/view"
+                  src="/images/Cover pic.png"
                   alt="Akansh Goel - Pharmacovigilance Professional"
                   className="w-full h-full object-cover rounded-full"
                 />
